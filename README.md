@@ -33,7 +33,7 @@ With Sketchbook, you can explore limitless possibilities, save your work, and sh
 ## GIFs 🎥
 | Brush Colors 🎨 | Brush Size 🖌️ | Background Image 🌄 | Save 💾 |
 |---|---|---|---|
-| ![Main Screen](https://github.com/tolipovmurodjon/sketchbook/assets/173606323/46be3598-b267-4682-8e73-14dbab33d0c3) | ![Brush Size Dialog](https://github.com/tolipovmurodjon/sketchbook/assets/173606323/686b927e-7230-4df6-bb78-749e4d4d0aec) | ![Gallery](https://github.com/tolipovmurodjon/sketchbook/assets/173606323/55b287e7-708b-4b59-9a7b-a6bf15b16219) | ![Share](https://github.com/tolipovmurodjon/sketchbook/assets/173606323/8abc95a6-8d46-4d10-bbab-f7ffd1850cfc) |
+| ![Brush Colors](https://github.com/tolipovmurodjon/sketchbook/assets/173606323/02e9f3b9-ad5f-4780-ab64-13be70fb911d) | ![Brush Size](https://github.com/tolipovmurodjon/sketchbook/assets/173606323/9f217dc5-277a-457e-9a71-d6f08bcc6e42) | ![Background Image](https://github.com/tolipovmurodjon/sketchbook/assets/173606323/9f683372-d675-4dd8-9970-9098e63138eb) | ![Save](https://github.com/tolipovmurodjon/sketchbook/assets/173606323/d4847dbf-af65-493e-abda-b497daf2adb8) |
 
 ## Notable Design Decisions 🎨
 
