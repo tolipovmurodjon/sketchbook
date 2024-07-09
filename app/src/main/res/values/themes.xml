@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Sketchbook" parent="Theme.MaterialComponents.DayNight.NoActionBar.Bridge">
+        <!-- Customize your light theme here. -->
+        <item name="android:statusBarColor">#035E6A</item>
+        <item name="android:navigationBarColor">#035E6A</item>
+
+    </style>
+
+    <style name="Theme.Sketchbook" parent="Base.Theme.Sketchbook" />
+</resources>

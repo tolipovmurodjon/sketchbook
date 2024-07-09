@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sketchbook</string>
+    <string name="brush_size_selector">Brush Size Selector</string>
+    <string name="background">Background</string>
+    <string name="gallery">Gallery</string>
+    <string name="undo">Undo</string>
+    <string name="redo">Redo</string>
+    <string name="save">Save</string>
+</resources>
