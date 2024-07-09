@@ -19,11 +19,11 @@ With Sketchbook, you can explore limitless possibilities, save your work, and sh
 
 - DrawingView
 - Dialog
-- SharedPreferences
 - Canvas
 - Bitmap
 - CustomPath
 - ContentResolver
+- File IO
 
 ## Screenshots 📸
 | Main Screen 🖼️ | Brush Size 🖌️ | Gallery 🖼️ | Share 📤 |
@@ -39,7 +39,7 @@ With Sketchbook, you can explore limitless possibilities, save your work, and sh
 
 - User-friendly interface with intuitive controls
 - Customizable brush sizes and colors for detailed artwork
-- Efficient data management using SharedPreferences
+- Efficient data management optimized for performance
 - Seamless saving and sharing options for your creations
 - Adaptive design for various screen sizes and resolutions
 
