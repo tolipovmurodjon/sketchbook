@@ -1,90 +1,55 @@
-# Sketchbook
+# Sketchbook 🎨🖌️
 
-Sketchbook is a feature-rich mobile application for creating and managing your sketches. Whether you are an artist, a designer, or just someone who loves to doodle, Sketchbook offers a wide range of tools and functionalities to bring your ideas to life.
+## Overview ℹ️
 
-![Sketchbook Logo](path/to/logo.png)
+Welcome to Sketchbook, your ultimate digital canvas on Android! 📱 Unleash your creativity with a wide array of tools and features designed to provide a seamless drawing experience. Whether you're doodling, sketching, or creating a masterpiece, Sketchbook offers everything you need right at your fingertips.
 
-## Table of Contents
+With Sketchbook, you can explore limitless possibilities, save your work, and share your creations with ease. 🖼️✨
 
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+## Features ✨
 
-## Features
+- Numerous colors to choose from for your artwork
+- Easy-to-use undo and redo options
+- Ability to set a custom background image for your canvas
+- Save your drawings to the gallery
+- Multiple brush sizes for varied drawing effects
+- Share your artwork directly from the app
 
-- **Intuitive Drawing Tools:** Wide variety of brushes, pencils, and colors.
-- **Layer Management:** Add, delete, and rearrange layers.
-- **Undo/Redo:** Easily correct mistakes with undo and redo functionality.
-- **Export Options:** Save your sketches as images or share them directly from the app.
+## Technologies Used 🛠️
 
-## Screenshots
+- DrawingView
+- Dialog
+- SharedPreferences
+- Canvas
+- Bitmap
+- CustomPath
+- ContentResolver
 
-![Home Screen](path/to/home_screen.png)
-![Drawing Interface](path/to/drawing_interface.png)
+## Screenshots 📸
+| Main Screen 🖼️ | Brush Size 🖌️ | Gallery 🖼️ | Share 📤 |
+|---|---|---|---|
+| ![Main Screen](https://github.com/tolipovmurodjon/sketchbook/assets/173606323/46be3598-b267-4682-8e73-14dbab33d0c3) | ![Brush Size Dialog](https://github.com/tolipovmurodjon/sketchbook/assets/173606323/686b927e-7230-4df6-bb78-749e4d4d0aec) | ![Gallery](https://github.com/tolipovmurodjon/sketchbook/assets/173606323/55b287e7-708b-4b59-9a7b-a6bf15b16219) | ![Share](https://github.com/tolipovmurodjon/sketchbook/assets/173606323/8abc95a6-8d46-4d10-bbab-f7ffd1850cfc) |
 
-## Installation
+## GIFs 🎥
+| Brush Colors 🎨 | Brush Size 🖌️ | Background Image 🌄 | Save 💾 |
+|---|---|---|---|
+| ![Main Screen](https://github.com/tolipovmurodjon/sketchbook/assets/173606323/46be3598-b267-4682-8e73-14dbab33d0c3) | ![Brush Size Dialog](https://github.com/tolipovmurodjon/sketchbook/assets/173606323/686b927e-7230-4df6-bb78-749e4d4d0aec) | ![Gallery](https://github.com/tolipovmurodjon/sketchbook/assets/173606323/55b287e7-708b-4b59-9a7b-a6bf15b16219) | ![Share](https://github.com/tolipovmurodjon/sketchbook/assets/173606323/8abc95a6-8d46-4d10-bbab-f7ffd1850cfc) |
 
-To get started with Sketchbook, follow these steps:
+## Notable Design Decisions 🎨
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/Sketchbook.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd Sketchbook
-    ```
-3. Open the project in Android Studio.
-4. Build and run the application on an emulator or a physical device.
+- User-friendly interface with intuitive controls
+- Customizable brush sizes and colors for detailed artwork
+- Efficient data management using SharedPreferences
+- Seamless saving and sharing options for your creations
+- Adaptive design for various screen sizes and resolutions
 
-## Usage
+## Getting Started 🚀
 
-1. Launch the Sketchbook app on your device.
-2. Use the drawing tools to create your sketches.
-3. Manage layers to organize your work.
-4. Save or share your sketches using the export options.
+To start using Sketchbook:
+1. Clone this repository.
+2. Open the project in Android Studio.
+3. Build and run the project on an Android device or emulator.
 
-## Contributing
+Explore the endless possibilities of digital art with Sketchbook and bring your creative ideas to life! 🎨✨
 
-We welcome contributions to improve Sketchbook! If you have suggestions, bug reports, or want to contribute code, please follow these guidelines:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bugfix:
-    ```bash
-    git checkout -b feature/your-feature-name
-    ```
-3. Commit your changes:
-    ```bash
-    git commit -m "Add your commit message here"
-    ```
-4. Push to the branch:
-    ```bash
-    git push origin feature/your-feature-name
-    ```
-5. Create a pull request describing your changes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Contact
-
-For any inquiries or support, please contact us at:
-- Email: support@eduai.com
-- Website: [EduAI](https://www.eduai.com)
-
----
-
-### Contributors
-
-- [Your Name](https://github.com/your-username)
-- [Contributor Name](https://github.com/contributor-username)
-
----
-
-**Note:** Replace `path/to/logo.png`, `path/to/home_screen.png`, and `path/to/drawing_interface.png` with the actual paths to your image files. Customize other sections as necessary to accurately reflect your project.
 
